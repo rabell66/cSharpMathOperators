@@ -18,8 +18,6 @@ namespace mathOperators
             decimal subtractionResults = firstNum - secondNum;
             decimal multiplicationResults = firstNum * secondNum;
             decimal divisionResults = firstNum / secondNum;
-
-            decimal.Round(divisionResults, 2, MidpointRounding.AwayFromZero);
             decimal modulusResults = firstNum % secondNum;
 
             Console.WriteLine("The total of " + firstNum + " and " + secondNum + " is " + additionResults + "\n\n");

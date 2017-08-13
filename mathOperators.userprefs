@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{E029A54C-A50F-425D-AC7F-F310BFEF512F}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="mathOperators/Program.cs">
     <Files>
-      <File FileName="mathOperators/Program.cs" Line="9" Column="12" />
+      <File FileName="mathOperators/Program.cs" Line="20" Column="60" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
