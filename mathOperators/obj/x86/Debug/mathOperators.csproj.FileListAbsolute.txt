@@ -1,0 +1,5 @@
+/Users/robertabell/Desktop/practiceProjects/c#/mathOperators/mathOperators/bin/Debug/mathOperators.exe
+/Users/robertabell/Desktop/practiceProjects/c#/mathOperators/mathOperators/bin/Debug/mathOperators.pdb
+/Users/robertabell/Desktop/practiceProjects/c#/mathOperators/mathOperators/obj/x86/Debug/mathOperators.csproj.CoreCompileInputs.cache
+/Users/robertabell/Desktop/practiceProjects/c#/mathOperators/mathOperators/obj/x86/Debug/mathOperators.exe
+/Users/robertabell/Desktop/practiceProjects/c#/mathOperators/mathOperators/obj/x86/Debug/mathOperators.pdb

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E029A54C-A50F-425D-AC7F-F310BFEF512F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="mathOperators/Program.cs">
+    <Files>
+      <File FileName="mathOperators/Program.cs" Line="9" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.mathOperators PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
